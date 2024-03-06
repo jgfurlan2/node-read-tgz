@@ -1,9 +1,9 @@
 {
-  "name": "node-read-zip",
+  "name": "node-read-tgz",
   "version": "1.0.0",
   "description": "Simple project that read a .tar.gz file and execute js code inside",
   "main": "./dist/index.js",
-  "repository": "https://github.com/jgfurlan2/node-read-zip",
+  "repository": "https://github.com/jgfurlan2/node-read-tgz",
   "license": "MIT",
   "scripts": {
     "once": "ts-node ./src/index.ts",
